@@ -65,10 +65,16 @@ Software Developper et Apprenant du métier de Scrum Master.</strong></h3>
 
 ---
 
+ <p align="left"> <a href=" https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=Batutankuma" alt="Batutankuma" /></a>
+</p>
 
   [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batutankuma&hide=prs&count_private=true&theme=synthwave&show_icons=true)](https://github.com/Batutankuma)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batutankuma&layout=compact&langs_count=6&show_icons=true&count_private=true&theme=gotham&bg_color=1E1E1E)](https://github.com/Batutankuma)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Batutankuma&" alt="Batutankuma" /></p>
+
 
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
+
