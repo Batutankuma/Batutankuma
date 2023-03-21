@@ -32,10 +32,10 @@ Software Developper et Apprenant du métier de Scrum Master.</strong></h3>
 ##  Des autres choses intéressantes !
 
 - 🚀 J'apprends le métier de Scrum Master
-- 🧔 J'aime discuter de projets.
+- 🧔 J'aime discuter des projets.
 - 👨‍⚕️ J'aime: l'innovation, la programmation,la science, 
 - 👨‍🏫 Social: la philosophie, Histoire, Religion, Antropologie  et Art
-- 🏅 Sport: Football (soccer) {PSG}
+- 🏅 Sport: Football (soccer) {ARSENAL}
 
 ## Langues !
 
