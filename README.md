@@ -54,7 +54,7 @@ Software Developper et Apprenant du métier de Scrum Master.</strong></h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=wordpress,express,flutter)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=mongodb,prisma,firebase,linux)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,prisma,linux,supabase)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=devto,heroku)](https://skills.thijs.gg)
 
