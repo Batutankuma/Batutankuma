@@ -39,7 +39,7 @@ Software Developper et Apprenant du métier de Scrum Master.</strong></h3>
 
 ## Langages et outils:
 
-[![My Skills](https://skills.thijs.gg/icons?i=flutter,nestjs,supabase,prisma,wordpress)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=flutter,supabase,nestjs,prisma,wordpress)](https://skills.thijs.gg)
 
 
 
